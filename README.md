@@ -1,2 +1,2 @@
 # DialogBottomBug
-Demo project for a issue with the DialogBottom of MahApps BaseMetroDialog
+Demo project for an issue with the DialogBottom of MahApps BaseMetroDialog
